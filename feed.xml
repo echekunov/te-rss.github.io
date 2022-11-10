@@ -1,98 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
   <channel>
-		<title>Trading Economics News</title>
-		<link>https://tradingeconomics.com/</link>
-		<description>Trading Economics News.</description>
-		<lastBuildDate>Tue, 02 Aug 2022 08:24:42 +0100</lastBuildDate>
+		<title>Dow Jones News</title>
+		<link>https://dow-jones.com/</link>
+		<description>Dow Jones News.</description>
 		<language>en</language>
     <item>
-      <title><![CDATA[UK Stocks Edge Down for 2nd Session]]></title>
-      <link>https://tradingeconomics.com/united-kingdom/stock-market</link>
-      <pubDate>2022-08-02T07:27:00</pubDate>
-      <guid>350239</guid>
+      <title><![CDATA[Interbank Foreign Exchange Rates At 00:50 EST / 0550 GMT]]></title>
+      <pubDate>2022-01-19T05:50:19.819</pubDate>
+      <guid>20220119000071</guid>
       <description>
-        <![CDATA[<p>The FTSE 100 traded marginally lower on Tuesday, following a 0.1% loss in the previous session, as geopolitical tensions between the US and China offset upbeat results from oil major BP. US House Speaker Nancy Pelosi will allegedly visit Taiwan today and China has warned of "serious consequences" if the trip goes ahead. On the corporate front, BP profits topped forecasts amid rising commodity prices while the oil giant also announced a 10% increase in its quarterly dividend payout; and Sage said it expects full-year revenue growth at the top end of forecasts.</p>]]>
+        <![CDATA[<p>
+ 
+                           Latest       Previous   %Chg    Daily    Daily   %Chg 
+Dollar Rates                               Close            High      Low  12/31 
+ 
+USD/JPY Japan           114.22-23      114.58-59  -0.32   114.78   114.22  -0.77 
+EUR/USD Euro            1.1327-30      1.1326-29  +0.01   1.1335   1.1319  -0.39 
+GBP/USD U.K.            1.3605-07      1.3595-97  +0.07   1.3611   1.3588  +0.58 
+USD/CHF Switzerland     0.9155-59      0.9172-76  -0.19   0.9179   0.9157  +0.37 
+USD/CAD Canada          1.2502-07      1.2511-16  -0.07   1.2520   1.2487  -1.08 
+AUD/USD Australia       0.7185-89      0.7182-86  +0.04   0.7197   0.7177  -1.07 
+NZD/USD New Zealand     0.6784-90      0.6766-72  +0.27   0.6791   0.6764  -0.76 
+ 
+Euro Rates 
+ 
+EUR/JPY Japan           129.37-42      129.77-81  -0.30   130.01   129.39  -1.16 
+EUR/GBP U.K.            0.8326-29      0.8329-32  -0.04   0.8336   0.8324  -0.96 
+EUR/CHF Switzerland     1.0374-77      1.0393-96  -0.18   1.0396   1.0376  +0.06 
+EUR/CAD Canada          1.4161-71      1.4168-78  -0.05   1.4179   1.4139  -1.43 
+EUR/AUD Australia       1.5758-68      1.5762-72  -0.03   1.5780   1.5740  +0.75 
+EUR/DKK Denmark         7.4357-64      7.4357-64   0.00   7.4361   7.4361   0.00 
+EUR/NOK Norway          9.9719-69      9.9729-79  -0.01   9.9946   9.9609  -0.50 
+EUR/SEK Sweden        10.3538-638    10.3445-545  +0.09  10.3754  10.3411  +0.68 
+EUR/CZK Czech Rep.     24.383-413     24.372-402  +0.05   24.417   24.367  -2.09 
+EUR/HUF Hungary       357.83-8.23    357.62-8.02  +0.06   358.30   357.47  -3.00 
+EUR/PLN Poland         4.5332-428     4.5278-374  +0.12   4.5469   4.5301  -1.12 
+ 
+Yen Rates 
+ 
+AUD/JPY Australia        82.08-12       82.30-34  -0.27    82.54    82.09  -1.85 
+GBP/JPY U.K.            155.38-44      155.74-80  -0.23   156.08   155.41  -0.16 
+CAD/JPY Canada           91.32-37       91.55-59  -0.25    91.86    91.34  +0.29 
+NZD/JPY New Zealand      77.48-56       77.56-60  -0.08    77.83    77.51  -1.55 
+ 
+Other Dollar Rates 
+ 
+USD/CZK Czech Rep.      21.510-60      21.500-50  +0.05   21.566   21.482  -1.56 
+USD/HUF Hungary       315.83-6.23    315.69-6.09  +0.04   316.25   315.69  -2.66 
+USD/DKK Denmark         6.5689-99     6.5697-707  -0.01   6.5756   6.5663  +0.44 
+USD/NOK Norway          8.8014-74      8.8026-86  -0.01   8.8263   8.7958  -0.03 
+USD/PLN Poland          4.0014-89      3.9977-04  +0.09   4.0146   4.0012  -0.57 
+USD/RUB Russia         77.083-153      76.998-07  +0.11   77.152   76.844  +3.11 
+USD/SEK Sweden         9.1387-477     9.1329-419  +0.06   9.1559   9.1281  +1.00 
+USD/ZAR S. Africa     15.5133-433    15.5007-307  +0.08  15.5365  15.4841  -2.60 
+ 
+USD/CNY China          6.3489-509      6.3520-40  -0.05   6.3557   6.3495  -0.09 
+USD/HKD Hong Kong       7.7917-22      7.7918-23   0.00   7.7933   7.7901  -0.06 
+USD/MYR Malaysia       4.1893-943      4.1810-60  +0.20   4.1955   4.1835  +0.62 
+USD/INR India           74.610-20      74.615-16   0.00   74.835   74.564  +0.14 
+USD/IDR Indonesia        14357-71       14331-45  +0.18    14378    14338  +0.78 
+USD/PHP Philippines     51.430-60      51.464-84  -0.06   51.600   51.430  +0.87 
+USD/SGD Singapore      1.3497-507      1.3503-13  -0.04   1.3516   1.3498  +0.12 
+USD/KRW S. Korea     1191.06-3.06   1192.03-4.03  -0.08  1193.96  1190.71  +0.27 
+USD/TWD Taiwan          27.615-45     27.579-609  +0.13   27.653   27.531  -0.31 
+USD/THB Thailand       33.180-200      33.070-90  +0.33   33.250   33.090  -0.12 
+USD/VND Vietnam          22729-32       22759-62  -0.13    22760    22730  -0.55 
+ 
+USD/BRL Brazil          5.5654-84      5.5656-86   0.00   5.5678   5.5659  -0.08 
+USD/MXN Mexico        20.4006-306   20.3884-4184  +0.06  20.4205  20.3815  -0.42 
+USD/ARS Argentina    104.1158-810  104.0974-1626  +0.02 104.1668 104.0749  +1.43 
+ 
+Source: Tullett Prebon 
+ </p>
+<p>
+  (END) Dow Jones Newswires</p>
+<p>
+  January 19, 2022 00:50 ET (05:50 GMT)</p>]]>
       </description>
     </item>
     <item>
-      <title><![CDATA[China Stocks Sink as Sino-US Tensions Rise]]></title>
-      <link>https://tradingeconomics.com/china/stock-market</link>
-      <pubDate>2022-08-02T07:27:36.057</pubDate>
-      <guid>350238</guid>
+      <title><![CDATA[Press Release: ASML reports EUR18.6 billion net sales and EUR5.9 billion net income in 2021]]></title>
+      <pubDate>2022-01-19T06:00:01.292</pubDate>
+      <guid>20220119000100</guid>
       <description>
-        <![CDATA[<p>The Shanghai Composite sank 2.26% to 3,186 while the Shenzhen Component lost 2.37% to 12,120 on Tuesday, closing at their lowest levels in at least a month, as escalating tensions between China and the US ahead of US House Speaker Nancy Pelosi’s expected visit to Taiwan sparked a broad selloff in Asia. Investor sentiment was also weighed down by mounting risk of a global recession as weak manufacturing data in major economies highlighted the darkening economic outlook. High-growth technology and new energy stocks led the market selloff, with sharp losses from East Money Information (-2.6%), Luxshare Precision (-3.5%), TCL Zhonghuan (-2.5%), Contemporary Amperex (-2.1%), Tianqi Lithium (-4.9%) and Longi Green Energy (-2.7%). All other sectors in China declined, including heavyweight consumer, industrial and financial names.</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[Japanese Shares Drop in Broad Decline]]></title>
-      <link>https://tradingeconomics.com/japan/stock-market</link>
-      <pubDate>2022-08-02T06:51:26.857</pubDate>
-      <guid>350231</guid>
-      <description>
-        <![CDATA[<p>The Nikkei 225 Index dropped 1.42% to 27,595 while the Topix Index lost 1.77% to 1,925 on Tuesday, retreating from two-month closing highs, with all sectors finishing in negative territory as a stronger yen, mixed corporate earnings and the risk of a global recession dented sentiment. Investors were also kept on edge by fears of an escalation in Sino-US tensions as US House Speaker Nancy Pelosi is set to visit Taiwan despite objections from China. Technology firms led the market selloff, with notable losses from SoftBank Group (-1%), Tokyo Electron (-2%), Keyence (-1.6%), Murata Manufacturing (-1.3%), Recruit Holdings (-2%) and Mercari Inc (-4.1%). Other index heavyweights also declined, including Sony Group (-0.8%), Mitsubishi Corp (-1.6%), Toyota (-2.6%), Nintendo (-1.9%) and Mitsui & Co (-4%).</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[UK Shares to Open Lower]]></title>
-      <link>https://tradingeconomics.com/united-kingdom/stock-market</link>
-      <pubDate>2022-08-02T06:49:55.763</pubDate>
-      <guid>350230</guid>
-      <description>
-        <![CDATA[<p>Contracts on the FTSE 100 futures were down 0.6% on Tuesday, tracking global negative cues, amid geopolitical tensions between the US and China. US House Speaker Nancy Pelosi will allegedly visit Taiwan today and China has warned of "serious consequences" if the trip goes ahead. Meanwhile, concerns about the strength of the global economy linger and the earnings season continues. BP profit topping forecasts amid rising commodity prices while the oil giant also announced a 10% increase in its quarterly dividend payout. Sage said it expects full year revenue growth at the top end of forecasts.</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[New Zealand Stocks Close Slightly Higher]]></title>
-      <link>https://tradingeconomics.com/new-zealand/stock-market</link>
-      <pubDate>2022-08-02T06:43:00</pubDate>
-      <guid>350229</guid>
-      <description>
-        <![CDATA[<p>The NZX 50 was up 6.56 points or less than 0.1% to finish at 11,532.46 on Tuesday, up for the fourth session while staying at its highest close in near three months. Sentiment continued to be supported by news that New Zealand's borders are fully open for the first time since March 2020, when they shut in an effort to keep out COVID-19. Traders tried to shrug off a drop on Wall Street overnight as well as an escalation in Sino-US tensions as US House of Representatives Speaker Nancy Pelosi is set to begin a visit to Taiwan today against the objections of China. The A2 Milk Company jumped near 9%, as the company may get approval as soon as this week on its application to sell its baby formula in the US. Other gainers were Plexure Group (26.2%), Pacific Edge Limited (11.3%), and Oceania Healthcare (4.1%), while among decliners were New Talisman Gold Mines (-33.3%), NZ Automotive Investments (-12.5%), Greenfern Industries (-7.5%), and Third Age Health Services (-7.2%).</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[Australian Shares Inch Up After RBA Decision]]></title>
-      <link>https://tradingeconomics.com/australia/stock-market</link>
-      <pubDate>2022-08-02T06:32:00</pubDate>
-      <guid>350228</guid>
-      <description>
-        <![CDATA[<p>The S&P/ASX 200 Index rose slightly by 0.07% to 6,998 on Tuesday, closing at its highest level in over seven weeks, after the Reserve Bank of Australia lifted the cash rate in a widely expected move and tempered guidance on future hikes amid expectations of a slowdown in the economy. RBA Governor Philip Lowe also said that there was no pre-set path to policy, in contrast to his previous, more hawkish statements that the central bank was intent on bringing interest rates to a “neutral” level of at least 2.5%. Technology stocks led the market, with notable gains from Xero Ltd (1.1%), Wisetech Global (1%) and Block Inc (2.7%). Financial shares also advanced, with the “Big Four” banks rising between 0.3% to 1.6%. Meanwhile, energy and mining stocks fell on weaker commodity prices. Artificial intelligence firm Appen Ltd also slumped 27.3% after saying it expected to post its first half-year loss since becoming a public company amid a weak digital ad environment and rising costs.</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[European Stocks to Open Lower, US-China Tensions in Focus]]></title>
-      <link>https://tradingeconomics.com/germany/stock-market</link>
-      <pubDate>2022-08-02T06:30:00</pubDate>
-      <guid>350227</guid>
-      <description>
-        <![CDATA[<p>European futures were lower on Tuesday, with contracts on both the Dax and Stoxx 50 futures losing nearly 0.7% each, and tracking its Asian peers lower. Geopolitical tensions between the US and China weighed on investors mood amid news that House Speaker Nancy Pelosi will visit Taiwan today. China has warned of "serious consequences" if the trip goes ahead. At the same time, traders continue to follow economic data for any signs of a potential recession while keeping a close eye on earnings. BP profit topped forecasts amid rising commodity prices and the company announced  a 10% increase in its quarterly dividend payout.</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[The Nikkei 225 Index decreased 1.36%]]></title>
-      <link>https://tradingeconomics.com/japan/stock-market</link>
-      <pubDate>2022-08-02T06:30:05.913</pubDate>
-      <guid>350226</guid>
-      <description>
-        <![CDATA[<p>In Tokyo the Nikkei 225 Index decreased 380 points or 1.36 percent on Tuesday. Losses were driven by Hino Motors, (-9.32%), Isetan Mitsukoshi (-5.26%) and Toto (-4.87%).</p>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[Sensex Falls for 1st Time in 5 Sessions]]></title>
-      <link>https://tradingeconomics.com/india/stock-market</link>
-      <pubDate>2022-08-02T05:44:00</pubDate>
-      <guid>350217</guid>
-      <description>
-        <![CDATA[<ul><li>The BSE Sensex dropped 226.2 points or 0.39% to 57,890 in morning deals on Tuesday, down for the first session in five and tracking a pullback in Asian markets following a drop on Wall Street overnight, due to fears that an aggressive tightening from the Fed will eventually lead to a global recession.</li><li>Traders were also wary of escalating US-China tensions ahead of a possible trip by US House Speaker Nancy Pelosi to Taiwan today.</li><li>Locally, the RBI will announce its monetary policy decision Friday, with markets expecting a further rate hike as India's inflation runs at a near-decade high and the rupee is trading near a record low.</li><li>Metal and IT stocks led the decline, amid sharp losses from Hindalco Industries (-3.17%), Welspun Corp (-2.87%), Jindal Steel (-2.6%), Tata Steel (-1.4%), and Tech Mahindra (-1.2%).</li><li>By contrast, ITC surged nearly 3%, after posting a 33.46% yoy rise in its April-June net profit.</li><li>Shares of SBI also moved higher (1.9%), as did Bajaj Finance (0.3%).</li></ul>]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[China Stocks Sink as Sino-US Tensions Grow]]></title>
-      <link>https://tradingeconomics.com/china/stock-market</link>
-      <pubDate>2022-08-02T03:41:16.187</pubDate>
-      <guid>350211</guid>
-      <description>
-        <![CDATA[<p>The Shanghai Composite sank 3% to 3,162 while the Shenzhen Component lost 2.6% to 12,080 on Tuesday, hitting their lowest levels in about two months, as growing tensions between China and the US ahead of US House Speaker Nancy Pelosi’s expected visit to Taiwan sparked a broad selloff in Asia. Investor sentiment has also been dampened by the risk of a global recession as weak manufacturing data in major economies highlighted the darkening global economic outlook. High-growth technology and new energy stocks led the decline, with sharp losses from East Money Information (-3.5%), Luxshare Precision (-3.5%), Han’s Laser Technology (-4.4%), Contemporary Amperex (-2.4%), Tianqi Lithium (-4.3%) and Longi Green Energy (-4.3%). All other sectors in China declined, including heavyweight consumer, industrial and financial names.</p>]]>
+        <![CDATA[<p>
+  ASML reports EUR18.6 billion net sales and EUR5.9 billion net income in 2021 </p>
+<p>
+  ASML reports EUR18.6 billion net sales and EUR5.9 billion net income in 2021 </p>
+<p>
+  Sales growth of around 20% expected for 2022 </p>
+<p>
+  VELDHOVEN, the Netherlands, January 19, 2022 -- today ASML Holding NV (ASML) has published its 2021 fourth-quarter and full-year results. </p>
+<p>
+   -- Q4 net sales of EUR5.0 billion, gross margin of 54.2%, net income of 
+      EUR1.8 billion 
+ 
+   -- Q4 net bookings of EUR7.1 billion2 
+ 
+   -- 2021 net sales of EUR18.6 billion, gross margin of 52.7%, net income of 
+      EUR5.9 billion 
+ 
+   -- ASML expects Q1 2022 net sales between EUR3.3 billion and EUR3.5 billion 
+      and a gross margin of around 49% 
+ 
+   -- Approximately EUR2 billion worth of sales that are expected to ship in 
+      the first quarter are not included in this number, and will be recognized 
+      in subsequent quarters after formal customer acceptance tests are 
+      completed in the field 
+ 
+   -- ASML expects 2022 net sales to grow around 20% compared to 2021. The 
+      expected impact of the fire in part of a building at our Berlin site is 
+      included in this. Based on our current insights, we believe we can manage 
+      the consequences of this fire without significant impact on our system 
+      output for 2022 
+ 
+   -- ASML intends to declare a total dividend over 2021 of EUR5.50 per 
+      ordinary share (100% increase compared to previous year) 
+ 
+(Figures in millions 
+of euros unless 
+otherwise indicated)     Q3 2021       Q4 2021        FY 2020       FY 2021 
+---------------------  ------------  ------------  -------------  ------------ 
+Net sales                     5,241         4,986         13,979        18,611 
+...of which Installed 
+ Base Management 
+ sales (1)                    1,130         1,522          3,662         4,958 
+ 
+New lithography 
+ systems sold 
+ (units)                         72            72            236           286 
+Used lithography 
+ systems sold 
+ (units)                          7            10             22            23 
+ 
+Net bookings (2)              6,179         7,050         11,292        26,240 
+ 
+Gross profit                  2,711         2,701          6,798         9,809 
+Gross margin (%)               51.7          54.2           48.6          52.7 
+ 
+Net income                    1,740         1,774          3,554         5,883 
+EPS (basic; in euros)          4.27          4.39           8.49         14.36 
+ 
+End-quarter cash and 
+ cash equivalents and 
+ short-term 
+ investments                  4,456         7,590          7,351         7,590 
+                       ------------  ------------  -------------  ------------ 
+ </p>
+<p>
+  (1) Installed Base Management sales equals our net service and field option sales. </p>
+<p>
+  (2) Our systems net bookings include all system sales orders for which written authorizations have been accepted. As of Q4 2021 and for FY 2021, this includes EUV 0.55 NA (High-NA) systems. We have not restated comparable periods for previously received EUV 0.55 NA (High-NA) sales orders. </p>
+<p>
+  Numbers have been rounded for readers&apos; convenience. A complete summary of US GAAP Consolidated Statements of Operations is published on www.asml.com </p>
+<p>
+  CEO statement and outlook </p>
+<p>
+  &quot;Our fourth-quarter net sales came in at EUR5.0 billion which is within our guidance. The gross margin of 54.2%, is higher than guided due to strong Installed Base revenue. Our fourth-quarter net bookings came in at EUR7.1 billion, including EUR2.6 billion from 0.33 NA and 0.55 NA EUV systems. </p>
+<p>
+  &quot;The total net sales for the year was EUR18.6 billion, including EUR6.3 billion from 42 EUV systems. For ASML, 2021 was a strong growth year in a dynamic environment. </p>
+<p>
+  &quot;We experience higher demand for our systems than our production capacity can accommodate. Very strong demand in end markets puts pressure on our customers for more wafer output. In order to support our customers, we are providing them with high-productivity upgrade solutions for their installed base, and we are reducing cycle time in our factory to ship more systems. One way to reduce cycle time is through a fast shipment process that skips some of the testing in our factory. Final testing and formal acceptance then takes place at the customer site. This leads to a deferral of revenue recognition for those shipments until formal customer acceptance, but does provide our customers with earlier access to wafer output capacity. </p>
+<p>
+  &quot;ASML expects first-quarter net sales between EUR3.3 billion and EUR3.5 billion with a gross margin of around 49%. ASML expects R&amp;D costs of around EUR760 million and SG&amp;A costs of around EUR210 million. The lower net sales guidance for the first quarter is due to a significant number of fast shipments, translating to approximately EUR2 billion of expected revenue shift from the first quarter to subsequent quarters. Looking at the full year -- even taking into account our current expectation of fast-shipment-related revenue shifts of six EUV systems into 2023 -- we expect a revenue growth of around 20%,&quot; said ASML President and Chief Executive Officer Peter Wennink. </p>
+<p>
+  Products and business highlights </p>
+<p>
+   -- In our EUV business, we received one order for the TWINSCAN EXE:5000 in 
+      the fourth quarter. We already received four orders in 2018. </p>
+<p>
+  Early 2022, we received the first order for the next generation, TWINSCAN EXE:5200, marking the next step on the path to 0.55 NA EUV introduction. </p>
+<p>
+   -- In our DUV business, the XT:860N was shipped to its first customer at the 
+      end of 2021. This KrF system offers improved performance and a lower cost 
+      per exposure. </p>
+<p>
+  In 2022 we will add KrF to the NXT platform with the introduction of the NXT:870, allowing us to make a significant step in productivity and cost of ownership, building on the existing experience on this platform in ArFi and ArF dry. </p>
+<p>
+   -- In our Applications business, shipment of the first eScan1100 multibeam 
+      inspection system designed for high-volume manufacturing is planned in 
+      the coming weeks. With 25 beams (5x5), we expect the eScan1100 to 
+      increase throughput up to 15 times compared to single e-beam inspection 
+      tools for targeted in-line defect inspection applications. </p>
+<p>
+  Dividend proposal and share buyback program update </p>
+<p>
+  ASML intends to declare a total dividend in respect of 2021 of EUR5.50 per ordinary share. Recognizing the interim dividend of EUR1.80 per ordinary share paid in November 2021, this leads to a final dividend proposal to the General Meeting of EUR3.70 per ordinary share. The total 2021 dividend is a 100% increase compared to the 2020 total dividend of EUR2.75 per ordinary share. </p>
+<p>
+  As part of its financial policy to return excess cash to its shareholders through growing annualized dividends and regularly timed share buybacks, ASML executes a share buyback program which started on July 22, 2021, and is to be closed by December 31, 2023. As part of this program, ASML intends to repurchase shares up to an amount of EUR9 billion, of which we expect a total of up to 0.45 million shares will be used to cover employee share plans. ASML intends to cancel the remainder of the shares repurchased. In the fourth quarter, we purchased around EUR2.5 billion of shares under the current program. </p>
+<p>
+  The share buyback program will be executed within the limitations of the existing authority granted by the Annual General Meeting of Shareholders (AGM) on April 29, 2021, and of the authority to be granted by future AGMs. The share buyback program may be suspended, modified or discontinued at any time. All transactions under this program will be published on ASML&apos;s website (www.asml.com/investors) on a weekly basis. </p>
+<p>
+ 
+Media Relations contacts        Investor Relations contacts 
+Monique Mols +31 6 5284 4418    Skip Miller +1 480 235 0934 
+Brittney Wolff Zatezalo +1 408  Marcel Kemp +31 40 268 6494 
+ 483 3207 
+Karen Lo +886 36 23 6639        Peter Cheang +886 3 659 6771 
+ </p>
+<p>
+  Quarterly video interview, press conference and investor call </p>
+<p>
+  With this press release, ASML has published a video interview in which CEO Peter Wennink discusses the 2021 fourth-quarter and full-year results and outlook for 2022. This video and the transcript can be viewed on www.asml.com. </p>
+<p>
+  CEO Peter Wennink and CFO Roger Dassen will host a virtual press conference in Veldhoven on January 19, 2022, at 11:00 Central European Time, which will be accessible via live webcast on www.asml.com. </p>
+<p>
+  An investor call for both investors and the media will be hosted by CEO Peter Wennink and CFO Roger Dassen on January 19, 2022 at 15:00 Central European Time / 09:00 US Eastern Time. Details can be found on our website. </p>
+<p>
+  About ASML </p>
+<p>
+  ASML is a leading supplier to the semiconductor industry. The company provides chipmakers with hardware, software and services to mass produce the patterns of integrated circuits (microchips). Together with its partners, ASML drives the advancement of more affordable, more powerful, more energy-efficient microchips. ASML enables groundbreaking technology to solve some of humanity&apos;s toughest challenges, such as in healthcare, energy use and conservation, mobility and agriculture. ASML is a multinational company headquartered in Veldhoven, the Netherlands, with offices across Europe, the US and Asia. Every day, ASML&apos;s more than 32,000 employees (FTE) challenge the status quo and push technology to new limits. ASML is traded on Euronext Amsterdam and NASDAQ under the symbol ASML. Discover ASML -- our products, technology and career opportunities -- at www.asml.com. </p>
+<p>
+  US GAAP and IFRS Financial Reporting </p>
+<p>
+  ASML&apos;s primary accounting standard for quarterly earnings releases and annual reports is US GAAP, the accounting principles generally accepted in the United States of America. Quarterly US GAAP consolidated statements of operations, consolidated statements of cash flows and consolidated balance sheets are available on www.asml.com. </p>
+<p>
+  (MORE TO FOLLOW) Dow Jones Newswires</p>
+<p>
+  January 19, 2022 01:00 ET (06:00 GMT)</p>
+]]>
       </description>
     </item>
   </channel>
