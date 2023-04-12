@@ -1,81 +1,506 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
+<?xml version="1.0" encoding="ISO-8859-15"?><rss version="2.0">
   <channel>
-		<title>Dow Jones News</title>
-		<link>https://dow-jones.com/</link>
-		<description>Dow Jones News.</description>
-		<language>en</language>
+		<title>dpa AFX</title>
+		<link>https://dpa-afx.com/</link>
+		<description>dpa AFX</description>
+		<language>de</language>
     <item>
-      <title><![CDATA[Interbank Foreign Exchange Rates At 00:50 EST / 0550 GMT]]></title>
-      <pubDate>2022-01-19T05:50:19.819</pubDate>
-      <guid>20220119000071</guid>
+      <title><![CDATA[EQS-Stimmrechte: RWE Aktiengesellschaft (deutsch)]]></title>
+      <pubDate>2023-04-12T05:50:19.819</pubDate>
+      <guid>1681197916-02334-FIROIGWWXUARDUNQDRIMQRKF<</guid>
       <description>
         <![CDATA[<p>
- 
-                           Latest       Previous   %Chg    Daily    Daily   %Chg 
-Dollar Rates                               Close            High      Low  12/31 
- 
-USD/JPY Japan           114.22-23      114.58-59  -0.32   114.78   114.22  -0.77 
-EUR/USD Euro            1.1327-30      1.1326-29  +0.01   1.1335   1.1319  -0.39 
-GBP/USD U.K.            1.3605-07      1.3595-97  +0.07   1.3611   1.3588  +0.58 
-USD/CHF Switzerland     0.9155-59      0.9172-76  -0.19   0.9179   0.9157  +0.37 
-USD/CAD Canada          1.2502-07      1.2511-16  -0.07   1.2520   1.2487  -1.08 
-AUD/USD Australia       0.7185-89      0.7182-86  +0.04   0.7197   0.7177  -1.07 
-NZD/USD New Zealand     0.6784-90      0.6766-72  +0.27   0.6791   0.6764  -0.76 
- 
-Euro Rates 
- 
-EUR/JPY Japan           129.37-42      129.77-81  -0.30   130.01   129.39  -1.16 
-EUR/GBP U.K.            0.8326-29      0.8329-32  -0.04   0.8336   0.8324  -0.96 
-EUR/CHF Switzerland     1.0374-77      1.0393-96  -0.18   1.0396   1.0376  +0.06 
-EUR/CAD Canada          1.4161-71      1.4168-78  -0.05   1.4179   1.4139  -1.43 
-EUR/AUD Australia       1.5758-68      1.5762-72  -0.03   1.5780   1.5740  +0.75 
-EUR/DKK Denmark         7.4357-64      7.4357-64   0.00   7.4361   7.4361   0.00 
-EUR/NOK Norway          9.9719-69      9.9729-79  -0.01   9.9946   9.9609  -0.50 
-EUR/SEK Sweden        10.3538-638    10.3445-545  +0.09  10.3754  10.3411  +0.68 
-EUR/CZK Czech Rep.     24.383-413     24.372-402  +0.05   24.417   24.367  -2.09 
-EUR/HUF Hungary       357.83-8.23    357.62-8.02  +0.06   358.30   357.47  -3.00 
-EUR/PLN Poland         4.5332-428     4.5278-374  +0.12   4.5469   4.5301  -1.12 
- 
-Yen Rates 
- 
-AUD/JPY Australia        82.08-12       82.30-34  -0.27    82.54    82.09  -1.85 
-GBP/JPY U.K.            155.38-44      155.74-80  -0.23   156.08   155.41  -0.16 
-CAD/JPY Canada           91.32-37       91.55-59  -0.25    91.86    91.34  +0.29 
-NZD/JPY New Zealand      77.48-56       77.56-60  -0.08    77.83    77.51  -1.55 
- 
-Other Dollar Rates 
- 
-USD/CZK Czech Rep.      21.510-60      21.500-50  +0.05   21.566   21.482  -1.56 
-USD/HUF Hungary       315.83-6.23    315.69-6.09  +0.04   316.25   315.69  -2.66 
-USD/DKK Denmark         6.5689-99     6.5697-707  -0.01   6.5756   6.5663  +0.44 
-USD/NOK Norway          8.8014-74      8.8026-86  -0.01   8.8263   8.7958  -0.03 
-USD/PLN Poland          4.0014-89      3.9977-04  +0.09   4.0146   4.0012  -0.57 
-USD/RUB Russia         77.083-153      76.998-07  +0.11   77.152   76.844  +3.11 
-USD/SEK Sweden         9.1387-477     9.1329-419  +0.06   9.1559   9.1281  +1.00 
-USD/ZAR S. Africa     15.5133-433    15.5007-307  +0.08  15.5365  15.4841  -2.60 
- 
-USD/CNY China          6.3489-509      6.3520-40  -0.05   6.3557   6.3495  -0.09 
-USD/HKD Hong Kong       7.7917-22      7.7918-23   0.00   7.7933   7.7901  -0.06 
-USD/MYR Malaysia       4.1893-943      4.1810-60  +0.20   4.1955   4.1835  +0.62 
-USD/INR India           74.610-20      74.615-16   0.00   74.835   74.564  +0.14 
-USD/IDR Indonesia        14357-71       14331-45  +0.18    14378    14338  +0.78 
-USD/PHP Philippines     51.430-60      51.464-84  -0.06   51.600   51.430  +0.87 
-USD/SGD Singapore      1.3497-507      1.3503-13  -0.04   1.3516   1.3498  +0.12 
-USD/KRW S. Korea     1191.06-3.06   1192.03-4.03  -0.08  1193.96  1190.71  +0.27 
-USD/TWD Taiwan          27.615-45     27.579-609  +0.13   27.653   27.531  -0.31 
-USD/THB Thailand       33.180-200      33.070-90  +0.33   33.250   33.090  -0.12 
-USD/VND Vietnam          22729-32       22759-62  -0.13    22760    22730  -0.55 
- 
-USD/BRL Brazil          5.5654-84      5.5656-86   0.00   5.5678   5.5659  -0.08 
-USD/MXN Mexico        20.4006-306   20.3884-4184  +0.06  20.4205  20.3815  -0.42 
-USD/ARS Argentina    104.1158-810  104.0974-1626  +0.02 104.1668 104.0749  +1.43 
- 
-Source: Tullett Prebon 
- </p>
+    RWE Aktiengesellschaft: Ver�ffentlichung gem�� � 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung</p>
+<p></p>
+<p>^</p>
+<p>EQS Stimmrechtsmitteilung: RWE Aktiengesellschaft</p>
+<p>RWE Aktiengesellschaft: Ver�ffentlichung gem�� � 40 Abs. 1 WpHG mit dem Ziel</p>
+<p>der europaweiten Verbreitung</p>
+<p></p>
+<p>11.04.2023 / 09:24 CET/CEST</p>
+<p>Ver�ffentlichung einer Stimmrechtsmitteilung �bermittelt durch EQS News -</p>
+<p>ein Service der EQS Group AG.</p>
+<p>F�r den Inhalt der Mitteilung ist der Emittent / Herausgeber verantwortlich.</p>
+<p></p>
+<p>---------------------------------------------------------------------------</p>
+<p></p>
+<p>Stimmrechtsmitteilung</p>
+<p></p>
+<p>1. Angaben zum Emittenten</p>
+<p></p>
+<p>     Name:                             RWE Aktiengesellschaft</p>
+<p>     Stra�e, Hausnr.:                  RWE Platz 1</p>
+<p>     PLZ:                              45141</p>
+<p>     Ort:                              Essen</p>
+<p>                                       Deutschland</p>
+<p>     Legal Entity Identifier (LEI):    529900GB7KCA94ACC940</p>
+<p></p>
+<p>2. Grund der Mitteilung</p>
+<p></p>
+<p>   X    Erwerb bzw. Ver�u�erung von Aktien mit Stimmrechten</p>
+<p>        Erwerb bzw. Ver�u�erung von Instrumenten</p>
+<p>        �nderung der Gesamtzahl der Stimmrechte</p>
+<p>   X    Sonstiger Grund:</p>
+<p>        Freiwillige Konzernmitteilung mit Schwellenber�hrung nur auf Ebene</p>
+<p>        Tochterunternehmen</p>
+<p></p>
+<p>3. Angaben zum Mitteilungspflichtigen</p>
+<p></p>
+<p>     Juristische Person: BlackRock, Inc.</p>
+<p>     Registrierter Sitz, Staat: Wilmington, Delaware, Vereinigte Staaten</p>
+<p>     von Amerika</p>
+<p></p>
+<p>4. Namen der Aktion�re</p>
+<p>mit 3% oder mehr Stimmrechten, wenn abweichend von 3.</p>
+<p></p>
+<p></p>
+<p></p>
+<p>5. Datum der Schwellenber�hrung:</p>
+<p></p>
+<p>     04.04.2023</p>
+<p></p>
+<p>6. Gesamtstimmrechtsanteile</p>
+<p></p>
+<p>                 Anteil          Anteil  Summe Anteile    Gesamtzahl der</p>
+<p>            Stimmrechte     Instrumente  (Summe 7.a. +  Stimmrechte nach</p>
+<p>           (Summe 7.a.)  (Summe 7.b.1.+          7.b.)         � 41 WpHG</p>
+<p>                                7.b.2.)</p>
+<p>  neu            6,29 %          0,04 %         6,34 %         743841217</p>
+<p>  letzte         6,17 %          0,18 %         6,35 %                 /</p>
+<p>  Mittei-</p>
+<p>  lung</p>
+<p></p>
+<p>7. Einzelheiten zu den Stimmrechtsbest�nden</p>
+<p>a. Stimmrechte (�� 33, 34 WpHG)</p>
+<p></p>
+<p>    ISIN            absolut                   in %</p>
+<p>                       direkt  zugerechnet       direkt  zugerechnet</p>
+<p>                  (� 33 WpHG)  (� 34 WpHG)  (� 33 WpHG)  (� 34 WpHG)</p>
+<p>    DE0007037129            0     46463827          0 %       6,25 %</p>
+<p>    US74975E3036            0       349058          0 %       0,05 %</p>
+<p>    Summe          46812885                  6,29 %</p>
+<p></p>
+<p>b.1. Instrumente i.S.d. � 38 Abs. 1 Nr. 1 WpHG</p>
+<p></p>
+<p>  Art des Instruments         F�lligkeit  Aus�bungs-  Stimmrech-  Stimm-</p>
+<p>                              / Verfall   zeitraum /  te absolut  rechte</p>
+<p>                                          Laufzeit                  in %</p>
+<p>  Wertpapierleihe             N/A         N/A             215645  0,03 %</p>
+<p>  (R�ck�bertragungsanspruch)</p>
+<p>                                          Summe           215645  0,03 %</p>
+<p></p>
+<p>b.2. Instrumente i.S.d. � 38 Abs. 1 Nr. 2 WpHG</p>
+<p></p>
+<p>    Art des     F�llig-  Aus�bungs-  Barausgleich     Stimm-  Stimm-</p>
+<p>    Instru-     keit /   zeitraum /  oder physische   rechte  rechte</p>
+<p>    ments       Verfall  Laufzeit    Abwicklung      absolut    in %</p>
+<p>    Contract    N/A      N/A         Bar              102003  0,01 %</p>
+<p>    for</p>
+<p>    Difference</p>
+<p>                                     Summe            102003  0,01 %</p>
+<p></p>
+<p>8. Informationen in Bezug auf den Mitteilungspflichtigen</p>
+<p></p>
+<p>        Mitteilungspflichtiger (3.) wird weder beherrscht noch beherrscht</p>
+<p>        Mitteilungspflichtiger andere Unternehmen, die Stimmrechte des</p>
+<p>        Emittenten (1.) halten oder denen Stimmrechte des Emittenten</p>
+<p>        zugerechnet werden.</p>
+<p>   X    Vollst�ndige Kette der Tochterunternehmen, beginnend mit der</p>
+<p>        obersten beherrschenden Person oder dem obersten beherrschenden</p>
+<p>        Unternehmen:</p>
+<p></p>
+<p>  Unternehmen                     Stimmrechte    Instrumente  Summe in %,</p>
+<p>                                in %, wenn 3%  in %, wenn 5%      wenn 5%</p>
+<p>                                   oder h�her     oder h�her   oder h�her</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  Trident Merger LLC                        %              %            %</p>
+<p>  BlackRock Investment                      %              %            %</p>
+<p>  Management, LLC</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock Capital Holdings,               %              %            %</p>
+<p>  Inc.</p>
+<p>  BlackRock Advisors, LLC                   %              %            %</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  Trident Merger LLC                        %              %            %</p>
+<p>  BlackRock Investment                      %              %            %</p>
+<p>  Management, LLC</p>
+<p>  Amethyst Intermediate LLC                 %              %            %</p>
+<p>  Aperio Holdings LLC                       %              %            %</p>
+<p>  Aperio Group, LLC                         %              %            %</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock (Singapore) Holdco              %              %            %</p>
+<p>  Pte. Ltd.</p>
+<p>  BlackRock (Singapore)                     %              %            %</p>
+<p>  Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock Holdco 4, LLC                   %              %            %</p>
+<p>  BlackRock Holdco 6, LLC                   %              %            %</p>
+<p>  BlackRock Delaware Holdings               %              %            %</p>
+<p>  Inc.</p>
+<p>  BlackRock Fund Advisors                   %              %            %</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock Holdco 4, LLC                   %              %            %</p>
+<p>  BlackRock Holdco 6, LLC                   %              %            %</p>
+<p>  BlackRock Delaware Holdings               %              %            %</p>
+<p>  Inc.</p>
+<p>  BlackRock Institutional                   %              %            %</p>
+<p>  Trust Company, National</p>
+<p>  Association</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Australia Holdco                %              %            %</p>
+<p>  Pty. Ltd.</p>
+<p>  BlackRock Investment                      %              %            %</p>
+<p>  Management (Australia)</p>
+<p>  Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock (Singapore) Holdco              %              %            %</p>
+<p>  Pte. Ltd.</p>
+<p>  BlackRock HK Holdco Limited               %              %            %</p>
+<p>  BlackRock Asset Management                %              %            %</p>
+<p>  North Asia Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock Holdco 4, LLC                   %              %            %</p>
+<p>  BlackRock Holdco 6, LLC                   %              %            %</p>
+<p>  BlackRock Delaware Holdings               %              %            %</p>
+<p>  Inc.</p>
+<p>  BlackRock Institutional                   %              %            %</p>
+<p>  Trust Company, National</p>
+<p>  Association</p>
+<p>  SAE Liquidity Fund (GenPar),              %              %            %</p>
+<p>  LLC</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Canada Holdings LP              %              %            %</p>
+<p>  BlackRock Canada Holdings                 %              %            %</p>
+<p>  ULC</p>
+<p>  BlackRock Asset Management                %              %            %</p>
+<p>  Canada Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock (Singapore) Holdco              %              %            %</p>
+<p>  Pte. Ltd.</p>
+<p>  BlackRock HK Holdco Limited               %              %            %</p>
+<p>  BlackRock Lux Finco S. a                  %              %            %</p>
+<p>  r.l.</p>
+<p>  BlackRock Japan Holdings GK               %              %            %</p>
+<p>  BlackRock Japan Co., Ltd.                 %              %            %</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Finance Europe                  %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Advisors (UK)                   %              %            %</p>
+<p>  Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Luxembourg Holdco               %              %            %</p>
+<p>  S.a.r.l.</p>
+<p>  BlackRock (Luxembourg) S.A.               %              %            %</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Life Limited                    %              %            %</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Finance Europe                  %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Investment                      %              %            %</p>
+<p>  Management (UK) Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Luxembourg Holdco               %              %            %</p>
+<p>  S.a.r.l.</p>
+<p>  BlackRock Investment                      %              %            %</p>
+<p>  Management Ireland Holdings</p>
+<p>  Limited</p>
+<p>  BlackRock Asset Management                %              %            %</p>
+<p>  Ireland Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Luxembourg Holdco               %              %            %</p>
+<p>  S.a.r.l.</p>
+<p>  BlackRock UK Holdco Limited               %              %            %</p>
+<p>  BlackRock Asset Management                %              %            %</p>
+<p>  Schweiz AG</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Finance Europe                  %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Investment                      %              %            %</p>
+<p>  Management (UK) Limited</p>
+<p>  BlackRock Fund Managers                   %              %            %</p>
+<p>  Limited</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Finance Europe                  %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock (Netherlands) B.V.              %              %            %</p>
+<p>  BlackRock Asset Management                %              %            %</p>
+<p>  Deutschland AG</p>
+<p>  -                                         %              %            %</p>
+<p>  BlackRock, Inc.                           %              %            %</p>
+<p>  BlackRock Holdco 2, Inc.                  %              %            %</p>
+<p>  BlackRock Financial                       %              %            %</p>
+<p>  Management, Inc.</p>
+<p>  BlackRock International                   %              %            %</p>
+<p>  Holdings, Inc.</p>
+<p>  BR Jersey International                   %              %            %</p>
+<p>  Holdings L.P.</p>
+<p>  BlackRock Holdco 3, LLC                   %              %            %</p>
+<p>  BlackRock Cayman 1 LP                     %              %            %</p>
+<p>  BlackRock Cayman West Bay                 %              %            %</p>
+<p>  Finco Limited</p>
+<p>  BlackRock Cayman West Bay IV              %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock Group Limited                   %              %            %</p>
+<p>  BlackRock Finance Europe                  %              %            %</p>
+<p>  Limited</p>
+<p>  BlackRock (Netherlands) B.V.              %              %            %</p>
+<p>  BlackRock Asset Management                %              %            %</p>
+<p>  Deutschland AG</p>
+<p>  iShares (DE) I                            %              %            %</p>
+<p>  Investmentaktiengesellschaft</p>
+<p>  mit</p>
+<p>  Teilgesellschaftsverm�gen</p>
+<p>  -                                         %              %            %</p>
+<p></p>
+<p>9. Bei Vollmacht gem�� � 34 Abs. 3 WpHG</p>
+<p>(nur m�glich bei einer Zurechnung nach � 34 Abs. 1 Satz 1 Nr. 6 WpHG)</p>
+<p></p>
+<p>Datum der Hauptversammlung:</p>
+<p>Gesamtstimmrechtsanteile (6.) nach der Hauptversammlung:</p>
+<p></p>
+<p>     Anteil Stimmrechte    Anteil Instrumente    Summe Anteile</p>
+<p>                      %                     %                %</p>
+<p></p>
+<p>10. Sonstige Informationen:</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Datum</p>
+<p></p>
+<p>     07.04.2023</p>
+<p></p>
+<p></p>
+<p>---------------------------------------------------------------------------</p>
+<p></p>
+<p>11.04.2023 CET/CEST Die EQS Distributionsservices umfassen gesetzliche</p>
+<p>Meldepflichten, Corporate News/Finanznachrichten und Pressemitteilungen.</p>
+<p>Medienarchiv unter https://eqs-news.com</p>
+<p></p>
+<p>---------------------------------------------------------------------------</p>
+<p></p>
+<p>   Sprache:        Deutsch</p>
+<p>   Unternehmen:    RWE Aktiengesellschaft</p>
+<p>                   RWE Platz 1</p>
+<p>                   45141 Essen</p>
+<p>                   Deutschland</p>
+<p>   Internet:       www.rwe.com</p>
+<p></p>
+<p></p>
+<p></p>
+<p>   Ende der Mitteilung    EQS News-Service</p>
+<p>---------------------------------------------------------------------------</p>
+<p></p>
+<p>1604295 11.04.2023 CET/CEST</p>
+<p></p>
+<p>�</p>
+<p></p>
 <p>
-  (END) Dow Jones Newswires</p>
-<p>
-  January 19, 2022 00:50 ET (05:50 GMT)</p>]]>
+
+</p>
+<p/><p/>]]>
       </description>
     </item>
     <item>
